@@ -1,62 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T13:13:39.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="JV7Ysy2ZnQ7vIFow533U" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T15:08:35.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="hzMoqohNoKzEalzxwFD_" version="14.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="835" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="DaRG13VTtktBcGYnUu3N-1" value="asdfasdfasdvvbrg" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=0;dy=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="425" width="250" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="DaRG13VTtktBcGYnUu3N-3" value="&lt;h1&gt;CO-Management W/ SCCM &amp;amp; Intune&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="20" width="440" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-0" value="Autopilot Config" style="swimlane;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="210" width="270" height="290" as="geometry" />
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-0" value="Autopilot Config" style="swimlane;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="210" width="280" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-1" value="Hybrid joined AAD&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-1" value="Hybrid joined AAD&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry y="30" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-3" value="Intune Connector for AD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-3" value="Intune Connector for AD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry y="50" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-7" value="&amp;nbsp;Company Branding" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-7" value="&amp;nbsp;Company Branding" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry x="-5" y="70" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-8" value="Deployment Profiles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-8" value="Deployment Profiles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry y="210" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-9" value="Device Hardware ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-9" value="Device Hardware ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry y="90" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-10" value="Dynamic Group for Containing Autopilot Devices" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-10" value="Dynamic Group for Containing Autopilot Devices" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry x="-5" y="110" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-11" value="Offline Domain Join" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-11" value="Offline Domain Join" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry x="30" y="150" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-12" value="Configuration Profiles/Policys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-12" value="Configuration Profiles/Policys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry x="-5" y="130" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-13" value="OOBE Experiment Config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-13" value="OOBE Experiment Config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry x="30" y="230" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-14" value="Security Config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-14" value="Security Config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry x="30" y="170" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-17" value="Certifications" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-0">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-17" value="Certifications" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
           <mxGeometry x="35" y="190" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-18" value="Managing Devices W/ Intune" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="530" width="270" height="280" as="geometry" />
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-18" value="Managing Device Configurations" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="540" width="280" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-19" value="Configuration profiles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-18">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-19" value="Configuration profiles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-18" vertex="1">
           <mxGeometry y="35" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-20" value="Windows Defender, Printers, Power Settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-18">
-          <mxGeometry x="30" y="55" width="250" height="20" as="geometry" />
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-20" value="Windows Defender, Printers, Power Settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-18" vertex="1">
+          <mxGeometry x="30" y="70" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="630" width="40" height="20" as="geometry" />
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-23" value="Teamviewer Connector" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="kXWJRL_39Yg8V6dLCyHq-18" vertex="1">
+          <mxGeometry y="140" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-0" value="Built-in conf:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-18">
+          <mxGeometry x="20" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-1" value="Custom conf:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-18">
+          <mxGeometry x="15" y="90" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-2" value="oma-uri settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-18">
+          <mxGeometry x="35" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-4" value="ADMX settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kXWJRL_39Yg8V6dLCyHq-18">
+          <mxGeometry x="40" y="120" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-5" value="Managing Device Certificates" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="820" width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-6" value="Certificate Profile Types" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-5">
+          <mxGeometry x="-5" y="65" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-7" value="Trusted Certificate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-5">
+          <mxGeometry x="40" y="85" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-8" value="SCEP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-5">
+          <mxGeometry x="40" y="105" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-9" value="PKCS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-5">
+          <mxGeometry x="40" y="125" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-10" value="PKCS Imported" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-5">
+          <mxGeometry x="40" y="145" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-11" value="Intune Certification Connector" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-5">
+          <mxGeometry y="25" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BKr3F7FAe8EKuG5MuVEc-12" value="Azure AD Application Proxy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-5">
+          <mxGeometry x="40" y="45" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
