@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T13:57:42.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="t2wsuzX7Cj4tQBfKp0BH" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T14:09:36.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="oibOnGefbGP7bjTL8pb2" version="14.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2253" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="DaRG13VTtktBcGYnUu3N-3" value="&lt;h1&gt;CO-Management W/ SCCM &amp;amp; Intune&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="20" width="440" height="90" as="geometry" />
+        <mxCell id="DaRG13VTtktBcGYnUu3N-3" value="&lt;h1&gt;CO-Management W/ SCCM &amp;amp; Intune&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Config&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-480" y="10" width="440" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kXWJRL_39Yg8V6dLCyHq-0" value="Autopilot Config" style="swimlane;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="kXWJRL_39Yg8V6dLCyHq-0" value="Enable Autopilot Config" style="swimlane;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="210" width="295" height="300" as="geometry" />
         </mxCell>
         <mxCell id="kXWJRL_39Yg8V6dLCyHq-1" value="Hybrid joined AAD&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="kXWJRL_39Yg8V6dLCyHq-0" vertex="1">
@@ -110,7 +110,7 @@
           <mxGeometry x="40" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-17" value="iOS management" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="620" width="200" height="200" as="geometry" />
+          <mxGeometry x="-540" y="210" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-18" value="Update management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="BKr3F7FAe8EKuG5MuVEc-17" vertex="1">
           <mxGeometry y="30" width="130" height="20" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="40" y="180" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-47" value="iOS App Deployment" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="1320" width="220" height="200" as="geometry" />
+          <mxGeometry x="-560" y="550" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-48" value="Supported methods:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="BKr3F7FAe8EKuG5MuVEc-47" vertex="1">
           <mxGeometry x="5" y="30" width="120" height="20" as="geometry" />
@@ -173,16 +173,16 @@
           <mxGeometry x="5" y="160" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-55" value="Mobile Application Management MAM" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-10" y="1754" width="610" height="116" as="geometry" />
+          <mxGeometry x="-10" y="1750" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-56" value="Application Protection Policies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="BKr3F7FAe8EKuG5MuVEc-55" vertex="1">
-          <mxGeometry x="215" y="36" width="180" height="20" as="geometry" />
+          <mxGeometry x="90" y="36" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-57" value="Application Configuration Policies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="BKr3F7FAe8EKuG5MuVEc-55" vertex="1">
-          <mxGeometry x="215" y="56" width="190" height="20" as="geometry" />
+          <mxGeometry x="85" y="56" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-0" value="Enable Co-management" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-300" y="210" width="270" height="310" as="geometry" />
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-0" value="[SCCM] Enable Co-management" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-310" y="210" width="270" height="190" as="geometry" />
         </mxCell>
         <mxCell id="XSN8XK6XtRi5ZNiwLqIX-2" value="&lt;b&gt;Hybrid joined AAD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-0">
           <mxGeometry x="5" y="40" width="120" height="20" as="geometry" />
@@ -199,11 +199,8 @@
         <mxCell id="XSN8XK6XtRi5ZNiwLqIX-12" value="Auto-Enroll Devices in MDM (GP)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-0">
           <mxGeometry x="5" y="120" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XSN8XK6XtRi5ZNiwLqIX-2" target="kXWJRL_39Yg8V6dLCyHq-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XSN8XK6XtRi5ZNiwLqIX-8" value="Users" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-265" y="550" width="200" height="200" as="geometry" />
+          <mxGeometry x="-760" y="210" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XSN8XK6XtRi5ZNiwLqIX-9" value="Licenses:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-8">
           <mxGeometry x="13" y="30" width="70" height="20" as="geometry" />
@@ -213,6 +210,93 @@
         </mxCell>
         <mxCell id="XSN8XK6XtRi5ZNiwLqIX-11" value="AAD Premium P2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-8">
           <mxGeometry x="23" y="70" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-13" value="Deploying Applications" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-310" y="1280" width="260" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-14" value="Enable Microsoft business store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-13">
+          <mxGeometry y="40" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-15" value="Deploy Company portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-13">
+          <mxGeometry x="20" y="60" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-16" value="Deploy SCCM Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-13">
+          <mxGeometry x="20" y="80" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-0" value="&lt;h1&gt;CO-Management W/ SCCM &amp;amp; Intune&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Workflow&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" width="570" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-1" value="Dell" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="210" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-2" value="Kone lähetetään Delliltä suoraan käyttäjälle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-1">
+          <mxGeometry x="70" y="50" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-9" target="6oEGNs7zIpye520fkLfr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-5" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1.017;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XSN8XK6XtRi5ZNiwLqIX-2" target="kXWJRL_39Yg8V6dLCyHq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="530" as="sourcePoint" />
+            <mxPoint x="430" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-6" value="Käyttäjä saa tietokoneen" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="340" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-7" value="Käyttäjä saa tietokoneen ja avaa sen ensimmäisen kerran. Tietokoneen&lt;br&gt;&amp;nbsp;täytyy yhdistää Internettiin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-6">
+          <mxGeometry x="-5" y="30" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-8" value="Tietokone ottaa yhteyden Intuneen ja alkaa asentaa konffeja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-6">
+          <mxGeometry y="70" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-16" value="ON-Prem Domain Join" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-6">
+          <mxGeometry y="100" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-19" value="SCCM Client install" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-6">
+          <mxGeometry y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-12" target="6oEGNs7zIpye520fkLfr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-8" target="6oEGNs7zIpye520fkLfr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-13" target="6oEGNs7zIpye520fkLfr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-14" value="[SCCM] " style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-310" y="550" width="270" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-15" value="Tietokone on työpöydällä ja SCCM Client on asennettu" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="600" width="420" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-21" value="Kun SCCM Client on asennettu, tietokoneelta pitäisi löytyä Software Center" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-15">
+          <mxGeometry y="40" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-22" value="Käyttäjä avaa Software Centerin ja asentaa Cisco VPN, joka on asetettu &lt;br&gt;Cloud Distribution Pointtiin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-15">
+          <mxGeometry y="60" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-23" value="Käyttäjä yhdistää tietokoneensa sisäverkkoomme, jolloin asennettavat&lt;br&gt;&amp;nbsp;ohjelmat ovat saatavilla Software Centerin sisäverkon DPltä" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-15">
+          <mxGeometry y="95" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-27" value="Tietokone on yhdistetty sisäverkkoomme" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="850" width="420" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-26" value="Käyttäjä itse asentaa ohjelmat Software Centeristä" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-27">
+          <mxGeometry y="90" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-24" value="Asennusten jaot määritellään User kohtaisina, joten käyttäjän luonnin aikana&lt;br&gt;&amp;nbsp;määritellään mitä ohjelmia Software Centeriin tulee automaattisesti näkyviin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-27">
+          <mxGeometry y="40" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-28" value="Tietokone on valmis" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="1050" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-31" value="Tietokoneeseen on asennettu Intunesta GP ja muut määritellyt säännöt,&lt;br&gt;&amp;nbsp;sekä seurataan statusta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-28">
+          <mxGeometry y="95" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oEGNs7zIpye520fkLfr-32" value="SCCMstä jaellaan softat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-28">
+          <mxGeometry x="10" y="140" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
