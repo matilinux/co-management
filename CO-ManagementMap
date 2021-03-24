@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T12:19:39.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="7WUAQIkb6U2-C1N9rMwR" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T14:23:03.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="Jd-B2kwCCaNRfaw2MKkv" version="14.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2876" dy="2301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,10 +118,10 @@
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-35" value="&lt;b&gt;Configuration profiles&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="BKr3F7FAe8EKuG5MuVEc-17" vertex="1">
           <mxGeometry x="7" y="60" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-39" value="&lt;b&gt;Enrollment Profile&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-17">
+        <mxCell id="6oEGNs7zIpye520fkLfr-39" value="&lt;b&gt;Enrollment Profile&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="BKr3F7FAe8EKuG5MuVEc-17" vertex="1">
           <mxGeometry x="7" y="30" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-40" value="Compliance Policies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="BKr3F7FAe8EKuG5MuVEc-17">
+        <mxCell id="6oEGNs7zIpye520fkLfr-40" value="Compliance Policies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="BKr3F7FAe8EKuG5MuVEc-17" vertex="1">
           <mxGeometry x="7" y="90" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-37" value="Deploying Applications" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -187,130 +187,130 @@
         <mxCell id="BKr3F7FAe8EKuG5MuVEc-57" value="Application Configuration Policies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="BKr3F7FAe8EKuG5MuVEc-55" vertex="1">
           <mxGeometry x="85" y="56" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-0" value="[SCCM] Enable Co-management" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-0" value="[SCCM] Enable Co-management" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-310" y="210" width="270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-2" value="&lt;b&gt;Hybrid joined AAD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-0">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-2" value="&lt;b&gt;Hybrid joined AAD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XSN8XK6XtRi5ZNiwLqIX-0" vertex="1">
           <mxGeometry x="5" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-5" value="&lt;b&gt;Change MDM authority to Intune&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-0">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-5" value="&lt;b&gt;Change MDM authority to Intune&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XSN8XK6XtRi5ZNiwLqIX-0" vertex="1">
           <mxGeometry x="5" y="60" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-6" value="Enrollment status page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-0">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-6" value="Enrollment status page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="XSN8XK6XtRi5ZNiwLqIX-0" vertex="1">
           <mxGeometry y="80" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-7" value="Co-management Configuration Wizard (Pilot)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-0">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-7" value="Co-management Configuration Wizard (Pilot)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="XSN8XK6XtRi5ZNiwLqIX-0" vertex="1">
           <mxGeometry y="100" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-12" value="Auto-Enroll Devices in MDM (GP)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-0">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-12" value="Auto-Enroll Devices in MDM (GP)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="XSN8XK6XtRi5ZNiwLqIX-0" vertex="1">
           <mxGeometry x="5" y="120" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-8" value="Users" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-8" value="Users" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-770" y="210" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-9" value="Licenses:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-8">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-9" value="Licenses:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="XSN8XK6XtRi5ZNiwLqIX-8" vertex="1">
           <mxGeometry x="13" y="30" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-10" value="Intune" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-8">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-10" value="Intune" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XSN8XK6XtRi5ZNiwLqIX-8" vertex="1">
           <mxGeometry x="23" y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-11" value="AAD Premium" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-8">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-11" value="AAD Premium" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XSN8XK6XtRi5ZNiwLqIX-8" vertex="1">
           <mxGeometry x="33" y="70" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-13" value="Deploying Applications" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-13" value="Deploying Applications" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-310" y="1280" width="260" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-14" value="Enable Microsoft business store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-13">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-14" value="Enable Microsoft business store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XSN8XK6XtRi5ZNiwLqIX-13" vertex="1">
           <mxGeometry y="40" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-15" value="Deploy Company portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-13">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-15" value="Deploy Company portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XSN8XK6XtRi5ZNiwLqIX-13" vertex="1">
           <mxGeometry x="20" y="60" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-16" value="Deploy SCCM Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XSN8XK6XtRi5ZNiwLqIX-13">
+        <mxCell id="XSN8XK6XtRi5ZNiwLqIX-16" value="Deploy SCCM Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XSN8XK6XtRi5ZNiwLqIX-13" vertex="1">
           <mxGeometry x="20" y="80" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-0" value="&lt;h1&gt;CO-Management W/ SCCM &amp;amp; Intune&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Workflow&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-0" value="&lt;h1&gt;CO-Management W/ SCCM &amp;amp; Intune&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Workflow&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" width="570" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-1" value="Dell" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-1" value="Dell" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="210" width="410" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-2" value="Kone lähetetään Delliltä suoraan käyttäjälle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-2" value="Kone lähetetään Delliltä suoraan käyttäjälle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-1" vertex="1">
           <mxGeometry x="70" y="50" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-9" target="6oEGNs7zIpye520fkLfr-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-9" target="6oEGNs7zIpye520fkLfr-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-5" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1.017;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XSN8XK6XtRi5ZNiwLqIX-2" target="kXWJRL_39Yg8V6dLCyHq-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-5" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1.017;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XSN8XK6XtRi5ZNiwLqIX-2" target="kXWJRL_39Yg8V6dLCyHq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="530" as="sourcePoint" />
             <mxPoint x="430" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-6" value="Käyttäjä saa tietokoneen" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-6" value="Käyttäjä saa tietokoneen" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="340" width="420" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-7" value="Käyttäjä saa tietokoneen ja avaa sen ensimmäisen kerran. Tietokoneen&lt;br&gt;&amp;nbsp;täytyy yhdistää Internettiin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-6">
+        <mxCell id="6oEGNs7zIpye520fkLfr-7" value="Käyttäjä saa tietokoneen ja avaa sen ensimmäisen kerran. Tietokoneen&lt;br&gt;&amp;nbsp;täytyy yhdistää Internettiin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-6" vertex="1">
           <mxGeometry x="-5" y="30" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-8" value="Tietokone ottaa yhteyden Intuneen ja alkaa asentaa konffeja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-6">
+        <mxCell id="6oEGNs7zIpye520fkLfr-8" value="Tietokone ottaa yhteyden Intuneen ja alkaa asentaa konffeja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-6" vertex="1">
           <mxGeometry y="70" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-16" value="ON-Prem Domain Join" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-6">
+        <mxCell id="6oEGNs7zIpye520fkLfr-16" value="ON-Prem Domain Join" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-6" vertex="1">
           <mxGeometry y="100" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-19" value="SCCM Client install" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-6">
+        <mxCell id="6oEGNs7zIpye520fkLfr-19" value="SCCM Client install" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-6" vertex="1">
           <mxGeometry y="120" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-12" target="6oEGNs7zIpye520fkLfr-8">
+        <mxCell id="6oEGNs7zIpye520fkLfr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-12" target="6oEGNs7zIpye520fkLfr-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-8" target="6oEGNs7zIpye520fkLfr-8">
+        <mxCell id="6oEGNs7zIpye520fkLfr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-8" target="6oEGNs7zIpye520fkLfr-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-13" target="6oEGNs7zIpye520fkLfr-8">
+        <mxCell id="6oEGNs7zIpye520fkLfr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXWJRL_39Yg8V6dLCyHq-13" target="6oEGNs7zIpye520fkLfr-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-14" value="[SCCM] " style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-14" value="[SCCM] " style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-310" y="550" width="270" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-34" value="Cloud Distribution Point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="6oEGNs7zIpye520fkLfr-14">
+        <mxCell id="6oEGNs7zIpye520fkLfr-34" value="Cloud Distribution Point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="6oEGNs7zIpye520fkLfr-14" vertex="1">
           <mxGeometry x="5" y="70" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-37" value="Cloud Management Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="6oEGNs7zIpye520fkLfr-14">
+        <mxCell id="6oEGNs7zIpye520fkLfr-37" value="Cloud Management Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="6oEGNs7zIpye520fkLfr-14" vertex="1">
           <mxGeometry y="40" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-15" value="Tietokone on työpöydällä ja SCCM Client on asennettu" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-15" value="Tietokone on työpöydällä ja SCCM Client on asennettu" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="600" width="420" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-21" value="Kun SCCM Client on asennettu, tietokoneelta pitäisi löytyä Software Center" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-15">
+        <mxCell id="6oEGNs7zIpye520fkLfr-21" value="Kun SCCM Client on asennettu, tietokoneelta pitäisi löytyä Software Center" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-15" vertex="1">
           <mxGeometry y="40" width="420" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-22" value="Käyttäjä avaa Software Centerin ja asentaa Cisco VPN, joka on asetettu &lt;br&gt;Cloud Distribution Pointtiin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-15">
+        <mxCell id="6oEGNs7zIpye520fkLfr-22" value="Käyttäjä avaa Software Centerin ja asentaa Cisco VPN, joka on asetettu &lt;br&gt;Cloud Distribution Pointtiin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-15" vertex="1">
           <mxGeometry y="60" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-23" value="Käyttäjä yhdistää tietokoneensa sisäverkkoomme, jolloin asennettavat&lt;br&gt;&amp;nbsp;ohjelmat ovat saatavilla Software Centerin sisäverkon DPltä" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-15">
+        <mxCell id="6oEGNs7zIpye520fkLfr-23" value="Käyttäjä yhdistää tietokoneensa sisäverkkoomme, jolloin asennettavat&lt;br&gt;&amp;nbsp;ohjelmat ovat saatavilla Software Centerin sisäverkon DPltä" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-15" vertex="1">
           <mxGeometry y="95" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-27" value="Tietokone on yhdistetty sisäverkkoomme" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-27" value="Tietokone on yhdistetty sisäverkkoomme" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="850" width="420" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-26" value="Käyttäjä itse asentaa ohjelmat Software Centeristä" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-27">
+        <mxCell id="6oEGNs7zIpye520fkLfr-26" value="Käyttäjä itse asentaa ohjelmat Software Centeristä" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-27" vertex="1">
           <mxGeometry y="90" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-24" value="Asennusten jaot määritellään User kohtaisina, joten käyttäjän luonnin aikana&lt;br&gt;&amp;nbsp;määritellään mitä ohjelmia Software Centeriin tulee automaattisesti näkyviin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-27">
+        <mxCell id="6oEGNs7zIpye520fkLfr-24" value="Asennusten jaot määritellään User kohtaisina, joten käyttäjän luonnin aikana&lt;br&gt;&amp;nbsp;määritellään mitä ohjelmia Software Centeriin tulee automaattisesti näkyviin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-27" vertex="1">
           <mxGeometry y="40" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-28" value="Tietokone on valmis" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-28" value="Tietokone on valmis" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="1050" width="420" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-31" value="Tietokoneeseen on asennettu Intunesta GP ja muut määritellyt säännöt,&lt;br&gt;&amp;nbsp;sekä seurataan statusta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-28">
+        <mxCell id="6oEGNs7zIpye520fkLfr-31" value="Tietokoneeseen on asennettu Intunesta GP ja muut määritellyt säännöt,&lt;br&gt;&amp;nbsp;sekä seurataan statusta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-28" vertex="1">
           <mxGeometry y="95" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-32" value="SCCMstä jaellaan softat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-28">
+        <mxCell id="6oEGNs7zIpye520fkLfr-32" value="SCCMstä jaellaan softat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-28" vertex="1">
           <mxGeometry x="10" y="140" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6oEGNs7zIpye520fkLfr-34" target="6oEGNs7zIpye520fkLfr-21">
+        <mxCell id="6oEGNs7zIpye520fkLfr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6oEGNs7zIpye520fkLfr-34" target="6oEGNs7zIpye520fkLfr-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-10" y="630" />
@@ -320,7 +320,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=-0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.994;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6oEGNs7zIpye520fkLfr-37" target="6oEGNs7zIpye520fkLfr-19">
+        <mxCell id="6oEGNs7zIpye520fkLfr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=-0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.994;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6oEGNs7zIpye520fkLfr-37" target="6oEGNs7zIpye520fkLfr-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-130" y="602" />
@@ -330,10 +330,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-42" value="ABM" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6oEGNs7zIpye520fkLfr-42" value="ABM" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-560" y="210" width="247" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="6oEGNs7zIpye520fkLfr-43" value="&lt;b&gt;Miten saada PlandOrder Iphonet ja iPadit&lt;br&gt;&amp;nbsp;Merakiin ja &quot;normaalit Intuneen&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6oEGNs7zIpye520fkLfr-42">
+        <mxCell id="6oEGNs7zIpye520fkLfr-43" value="&lt;b&gt;Miten saada PlandOrder Iphonet ja iPadit&lt;br&gt;&amp;nbsp;Merakiin ja &quot;normaalit Intuneen&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6oEGNs7zIpye520fkLfr-42" vertex="1">
           <mxGeometry y="35" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
